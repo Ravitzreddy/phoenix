@@ -1,7 +1,3 @@
-/*First version*/
-/*Second version*/
-/*fourth version*/
-/*Fifthversion*/
+/*FInal version*/
 DEF VAR labc AS CHAR.
-labc  = "Hello".
-labc = "Hello2".
+VC and RC are culpricts
